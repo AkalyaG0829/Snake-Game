@@ -15,8 +15,8 @@ This version adds cool effects like a **space-themed background**, **glowing foo
 
 ##  Technologies Used
 
-HTML5-Structure and Canvas element 
-CSS3-Layout and styling 
-JavaScript-Game logic and rendering 
+1.HTML5-Structure and Canvas element 
+2.CSS3-Layout and styling 
+3.JavaScript-Game logic and rendering 
 
 
